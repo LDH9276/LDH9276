@@ -1,8 +1,9 @@
 프론트엔드에 진심인 퍼블리셔입니다. <br/>
 부족한 실력이지만 풀스택 개발자를 꿈꾸고 있습니다. <br/>
 <br/>
+
+<p>다룰줄 아는 언어</p>
 <ul>
-  <li>다룰줄 아는 언어</li>
   <li>html/css/ JavaScript ES6</li>
   <li>React.js</li>
   <li>PHP</li>
