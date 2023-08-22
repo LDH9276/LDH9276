@@ -3,7 +3,7 @@
 <br/>
 <ul>
   <li>다룰줄 아는 언어</li>
-  <li>html/css/EES6</li>
+  <li>html/css/ JavaScript ES6</li>
   <li>React.js</li>
   <li>PHP</li>
 </ul>
