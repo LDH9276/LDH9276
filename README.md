@@ -9,6 +9,14 @@
   <li>PHP</li>
 </ul>
 <br/>
+
+<p>향후 배울 언어/라이브러리</p>
+<ul>
+  <li>React Native</li>
+  <li>Next.js</li>
+  <li>Kotlin</li>
+</ul>
+<br/>
 개인 포트폴리오 사이트<br/>
 http://dongheonplace.co.kr
 
