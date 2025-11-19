@@ -17,8 +17,6 @@
   <li>Kotlin</li>
 </ul>
 <br/>
-개인 포트폴리오 사이트<br/>
-http://dongheonplace.co.kr
 
 <!--
 **LDH9276/LDH9276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
