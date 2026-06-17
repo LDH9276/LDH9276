@@ -2,9 +2,9 @@
 부족한 실력이지만 풀스택 개발자를 꿈꾸고 있습니다. <br/>
 <br/>
 
-<a href="https://ldh-new-portfolio.vercel.app">포트폴리오 링크 바로가기</a>
+<a href="https://ldh-new-portfolio.vercel.app" target="_blank">포트폴리오 링크 바로가기</a>
 
-
+<br/>
 <p>다룰줄 아는 언어</p>
 <ul>
   <li>html/css/ JavaScript ES6</li>
