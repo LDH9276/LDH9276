@@ -1,72 +1,39 @@
-5년간의 디자인 실무와 2년간의 웹 퍼블리싱 경험을 바탕으로
-사용자에게 보기 좋은 화면을 넘어, **유지보수와 확장성을 고려한 프론트엔드 구조**를 고민하는 개발자입니다.
+# 👨‍💻 프론트엔드 개발자 이동헌입니다
 
-볼빅, 포콘스, 미래DSN 등 10개 이상의 실서비스 웹사이트 구축 및 유지보수를 경험했으며,
-부트캠프와 개인 프로젝트를 통해 React, Next.js, Supabase, PHP, MySQL 기반의 서비스 개발 경험을 쌓고 있습니다.
+5년간의 디자인 실무와 2년간의 웹 퍼블리싱 경험을 거쳐, 사용자와 소통하는 프론트엔드 개발자로 커리어를 나아가고 있습니다. 단순한 화면 구현을 넘어 유지보수와 확장성을 고려한 서비스 구조 설계에 깊은 관심을 두고 있습니다. 
 
-디자인 시안을 정확하게 구현하는 퍼블리싱 역량을 기반으로,
-프론트엔드와 백엔드의 연결 흐름까지 이해하는 개발자로 성장하는 것을 목표로 하고 있습니다.
+디자인 백그라운드를 활용해 정보 계층(IA)과 사용자 경험(UX)을 고려한 직관적인 UI를 구현하며, 프론트엔드와 백엔드의 데이터 연결 지점을 깊게 고민하는 개발자를 지향합니다.
 
 ---
 
-## Portfolio
-
-* [포트폴리오 바로가기](https://ldh-new-portfolio.vercel.app)
-
----
-
-## Career
-
-### 히어앤나우
-
-**웹 퍼블리셔 / 웹개발**
-2023.08 ~ 2025.08
-
-* 기업 공식 홈페이지 및 브랜드 사이트 신규 구축 / 리뉴얼
-* 볼빅, 포콘스, 미래DSN 등 실서비스 웹사이트 퍼블리싱 및 유지보수
-* 분양 웹사이트, 모바일 초청장, 관심고객 등록 페이지 UI 구현
-* HTML5, CSS, JavaScript, jQuery, PHP 기반 반응형 웹 구현
-* Swiper.js, GSAP 등을 활용한 UI 인터랙션 구현
-* 기존 HTML/CSS 구조 분석 및 레거시 코드 개선
-
-## Skills
+## 🛠 Tech Stack
 
 ### Frontend
+- React, Next.js (App Router / Pages Router)
+- JavaScript (ES6+), TypeScript
+- HTML5, CSS3, GSAP, Swiper.js
 
-* HTML5
-* CSS3
-* JavaScript ES6+
-* TypeScript 학습 중
-* React
-* Next.js
-* jQuery
-* Swiper.js
-* GSAP
+### Backend & DB
+- Supabase
+- PHP, MySQL
 
-### Backend / Database
-
-* PHP
-* MySQL
-* Supabase
+### Tools & Design
+- Git, GitHub, Vercel
+- Figma, Photoshop, Illustrator, Indesign
 
 ---
 
-## Currently Learning
+## 💼 Experience & Education
 
-* TypeScript
-* React 심화
-* Next.js App Router
-* 서버 컴포넌트 / 클라이언트 컴포넌트 구조
-* 프론트엔드 성능 최적화
-* 유지보수 가능한 컴포넌트 설계
+- **멋쟁이사자처럼 프론트엔드 16기 부트캠프** (2025.11 - 2026.05)
+  - React, Next.js 기반 팀 프로젝트 수행 및 프론트엔드/백엔드 데이터 연동 실무 경험
+- **(주)히어앤나우 | 웹개발 (주임)** (2023.08 - 2025.08)
+  - 기업 웹사이트 10여 개 신규 구축 및 리뉴얼 전담 (볼빅, 포콘스 등)
+  - 구형 레거시 코드 리팩토링, CSS 모듈화 도입 및 반응형 웹 인터랙션 구현
 
 ---
 
-## Direction
+## 📫 Contact
 
-단순히 화면을 구현하는 것에서 멈추지 않고,
-사용자 흐름, 데이터 구조, 유지보수성까지 함께 고려하는 프론트엔드 개발자가 되고자 합니다.
-
-디자인 실무에서 얻은 시각적 완성도와
-퍼블리싱 실무에서 쌓은 빠른 구현력을 기반으로,
-서비스 전체 흐름을 이해하는 개발자로 성장하고 있습니다.
+- **Portfolio:** [ldh-new-portfolio.vercel.app](https://ldh-new-portfolio.vercel.app)
+- **Email:** leedh9276@naver.com
