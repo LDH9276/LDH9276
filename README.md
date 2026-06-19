@@ -14,7 +14,6 @@
 ## Portfolio
 
 * [포트폴리오 바로가기](https://ldh-new-portfolio.vercel.app)
-* [GitHub](https://github.com/LDH9276)
 
 ---
 
@@ -51,16 +50,6 @@
 * PHP
 * MySQL
 * Supabase
-
-### Tools
-
-* Git
-* GitHub
-* Vercel
-* Figma
-* Photoshop
-* Illustrator
-* InDesign
 
 ---
 
