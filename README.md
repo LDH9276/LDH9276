@@ -1,35 +1,85 @@
-# 안녕하세요! 프론트엔드 개발자 이동헌입니다. 👋
+# 안녕하세요, 프론트엔드 개발자로 성장 중인 이동헌입니다.
 
-[cite_start]5년간의 디자인 실무와 2년간의 웹 퍼블리싱 경험을 바탕으로 프론트엔드 개발로 커리어를 전환했습니다[cite: 14]. [cite_start]단순한 화면 구현을 넘어, 유지보수와 확장성을 고려한 구조로 서비스를 탄탄하게 설계하는 개발자를 지향합니다[cite: 17].
+5년간의 디자인 실무와 2년간의 웹 퍼블리싱 경험을 바탕으로
+사용자에게 보기 좋은 화면을 넘어, **유지보수와 확장성을 고려한 프론트엔드 구조**를 고민하는 개발자입니다.
 
-## 💡 About Me
+볼빅, 포콘스, 미래DSN 등 10개 이상의 실서비스 웹사이트 구축 및 유지보수를 경험했으며,
+부트캠프와 개인 프로젝트를 통해 React, Next.js, Supabase, PHP, MySQL 기반의 서비스 개발 경험을 쌓고 있습니다.
 
-- [cite_start]**UI/UX to Frontend**: 디자이너로서 정보 계층 구조(IA)를 고민했던 경험을 살려, 사용자 친화적이고 직관적인 UI를 구현합니다[cite: 58, 275].
-- [cite_start]**Web Publishing & Optimization**: 10여 개의 실서비스(볼빅, 포콘스 등)를 직접 퍼블리싱하고 유지보수하며, 모바일 우선(Mobile First) 전략과 반응형 웹, 웹 접근성에 대한 탄탄한 기본기를 갖추었습니다[cite: 15, 60, 277].
-- [cite_start]**Modern Frontend Ecosystem**: 단순 세션이 아닌 DB 기반 로직, 클라이언트/서버사이드 렌더링 최적화, 그리고 재사용 가능한 컴포넌트 모듈화에 깊은 관심을 두고 있습니다[cite: 49, 87, 285].
+디자인 시안을 정확하게 구현하는 퍼블리싱 역량을 기반으로,
+프론트엔드와 백엔드의 연결 흐름까지 이해하는 개발자로 성장하는 것을 목표로 하고 있습니다.
 
-## 🛠 Tech Stack
+---
+
+## Portfolio
+
+* [포트폴리오 바로가기](https://ldh-new-portfolio.vercel.app)
+* [GitHub](https://github.com/LDH9276)
+
+---
+
+## Career
+
+### 히어앤나우
+
+**웹 퍼블리셔 / 웹개발**
+2023.08 ~ 2025.08
+
+* 기업 공식 홈페이지 및 브랜드 사이트 신규 구축 / 리뉴얼
+* 볼빅, 포콘스, 미래DSN 등 실서비스 웹사이트 퍼블리싱 및 유지보수
+* 분양 웹사이트, 모바일 초청장, 관심고객 등록 페이지 UI 구현
+* HTML5, CSS, JavaScript, jQuery, PHP 기반 반응형 웹 구현
+* Swiper.js, GSAP 등을 활용한 UI 인터랙션 구현
+* 기존 HTML/CSS 구조 분석 및 레거시 코드 개선
+
+## Skills
 
 ### Frontend
-- [cite_start]**Framework & Library**: React, Next.js (App Router / Pages Router) [cite: 25]
-- [cite_start]**Language**: JavaScript (ES6+), TypeScript [cite: 27]
-- [cite_start]**Markup & Styling**: HTML5, CSS3, CSS Modules, GSAP, Swiper.js [cite: 29, 49, 52]
 
-### Backend & Database
-- [cite_start]Supabase [cite: 16]
-- [cite_start]PHP, MySQL [cite: 97]
+* HTML5
+* CSS3
+* JavaScript ES6+
+* TypeScript 학습 중
+* React
+* Next.js
+* jQuery
+* Swiper.js
+* GSAP
 
-### Tools & Design
-- [cite_start]Git, GitHub, Vercel [cite: 76]
-- [cite_start]Figma, Photoshop, Illustrator, Indesign [cite: 33]
+### Backend / Database
 
-## 🚀 Key Projects
+* PHP
+* MySQL
+* Supabase
 
-- **행쇼마켓**: Next.js와 Supabase를 활용한 쇼핑몰 팀 프로젝트. [cite_start]로그인 사용자 기준 DB 연동 장바구니 및 역할별(사용자/판매자/관리자) 권한 로직 설계 및 배포[cite: 73, 81, 88].
-- **사자들의 공부방**: PHP 기반 학습 커뮤니티. [cite_start]인증 토큰 기반 로그인 구조 설계 및 Fetch API를 활용한 프론트엔드-백엔드 데이터 연동 구현[cite: 92, 102, 106].
-- [cite_start]**실무 프로젝트 (퍼블리싱 & 프론트엔드)**: 볼빅, 포콘스 등 10개 이상의 기업 공식 웹사이트 및 아파트 분양 홈페이지 반응형 UI 신규 구축, 레거시 HTML/CSS 리팩토링 수행[cite: 47, 138].
+### Tools
 
-## 📫 Contact & Links
+* Git
+* GitHub
+* Vercel
+* Figma
+* Photoshop
+* Illustrator
+* InDesign
 
-- [cite_start]**Portfolio**: [ldh-new-portfolio.vercel.app](https://ldh-new-portfolio.vercel.app) [cite: 262]
-- [cite_start]**Email**: leedh9276@naver.com [cite: 2]
+---
+
+## Currently Learning
+
+* TypeScript
+* React 심화
+* Next.js App Router
+* 서버 컴포넌트 / 클라이언트 컴포넌트 구조
+* 프론트엔드 성능 최적화
+* 유지보수 가능한 컴포넌트 설계
+
+---
+
+## Direction
+
+단순히 화면을 구현하는 것에서 멈추지 않고,
+사용자 흐름, 데이터 구조, 유지보수성까지 함께 고려하는 프론트엔드 개발자가 되고자 합니다.
+
+디자인 실무에서 얻은 시각적 완성도와
+퍼블리싱 실무에서 쌓은 빠른 구현력을 기반으로,
+서비스 전체 흐름을 이해하는 개발자로 성장하고 있습니다.
